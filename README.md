@@ -23,3 +23,40 @@ Moving average comparison.
 Volatility monitoring.
 Actual vs Predicted price comparison.
 KPI cards for model performance metrics.
+
+## Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Yahoo Finance API (yfinance)
+Power BI
+
+## Dashboard Components
+### Executive Dashboard
+Highest Stock Price
+Lowest Stock Price
+Average Stock Price
+Model Accuracy KPI
+### Trend Analysis
+Historical Price Trend
+Moving Average Trend Analysis
+### Risk Analysis
+Daily Return Visualization
+Volatility Assessment
+### Predictive Analytics
+Actual vs Predicted Price Comparison
+Model Performance Metrics
+
+## Future Enhancements
+Multi-stock comparative analysis
+Real-time market data integration
+ARIMA and Prophet forecasting models
+Random Forest and XGBoost models
+LSTM-based deep learning forecasting
+News and sentiment analysis integration
+Portfolio optimization and risk-return analysis
+
+## Conclusion
+This project demonstrates the application of data analytics, machine learning, and business intelligence tools to financial market analysis. By combining lag-based feature engineering with predictive modeling and interactive Power BI visualizations, the dashboard provides actionable insights into stock performance, volatility, and forecasting.
